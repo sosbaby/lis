@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+}
+h3{
+    color: brown;
+}
+h4{
+    color: black;
+}
+img{
+    height: 200px;
+    width: 250px;
+   position: absolute;
+   top: 110px;
+   right: 30px;
+}
+span{
+    height: 200px;
+    width: 250px;
+   position: absolute;
+   top: 270px;
+   right: 10px;
+}
